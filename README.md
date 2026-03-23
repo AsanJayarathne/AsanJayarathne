@@ -1,27 +1,40 @@
 <h1 align="center">Hi 👋, I'm Asan Rasmika</h1>
-<h3 align="center">I'm computer science student from Sri lanka</h3>
+<h3 align="center">Computer Science student from Sri Lanka</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip%20views&color=0e75b6&style=flat" alt="asanjayarathne" /> </p>
+<p align="center">
+  <a href="https://github.com/AsanJayarathne">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=AsanJayarathne&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:asan.rasmika@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-handle"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/AsanJayarathne"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
-<p align="center">
-- 🌱 I’m currently learning **Java, Python**
-</p>
-<p align="center">
+
+### About me
+
+- 🌱 I’m currently learning **Java** and **Python**
 - 💬 Ask me about **Java**
-  </p>
+- ⚡ Fun fact: **I love cats**
+
+---
+
+### Languages & Tools
+
 <p align="center">
-- 📫 How to reach me **https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip**
-  </p>
-<p align="center">
-- ⚡ Fun fact **I love cats**
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,sass,mysql,git,github,vscode" />
 </p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-</p>
+### GitHub Stats
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="bootstrap" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="c" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="css3" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="java" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="javascript" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="mysql" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="react" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AsanJayarathne/AsanJayarathne/main/drier/Asan_Jayarathne_2.3.zip" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AsanJayarathne&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsanJayarathne&layout=compact&theme=tokyonight" />
+</p>
